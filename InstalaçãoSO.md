@@ -24,8 +24,14 @@ Primeiro para Selecionar o "Install".
 <br/>
 Em seguida use seu teclado para esoclher a linguagem, região e o mapa do teclado. (Por exemplo eu escolhi, português, Brasil e o teclado brasileiro também.
 A configuração de rede vai falar, não tem problema aperte enter com a opção "continuar selecionada.
-
-<img src="https://user-images.githubusercontent.com/93548287/173681109-0c878ae9-10ea-4d28-89db-75254d7c6ca5.png width="700px" align="center"> </img>
+Em seguida se for o caso selecione:
+<img src="https://user-images.githubusercontent.com/93548287/173685529-71bc8d9e-34c5-4d02-a2e4-b45a0f939490.png" width="700px" align="center"> </img>
 <br/>
 <br/>
-
+Seu hostmane deve ser seu login no intra + 42. Em seguida selecione "continuar". Está em dúvida sobre o que é hostname é só ler o que o Debian está falando com você.
+<img src="https://user-images.githubusercontent.com/93548287/173685728-7cd3de2c-330b-4537-827a-d20825b050a1.png" width="700px" align="center"> </img>
+<br/>
+<br/>
+Pode ser que nesse ponto o Debian peça o nome de dommínio, não é necessário informar, basta selecionar continuar.
+Em seguida você irá definir uma senha para o root, não se preocupe esse senha será mudada depois, você pode começar colocando uma senha que obedece as politicas de segurança definidos no subject do projeto.
+Ahhh, lembre de anotar esse password num lugar onde você não vai esquecer.
