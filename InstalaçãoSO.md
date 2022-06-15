@@ -14,21 +14,25 @@ Com a máquina virtual selecionada.
 <br/>
 <br/>
 Finalmente "ok"
+<br/>
 <img src="https://user-images.githubusercontent.com/93548287/173678838-b97ad2f2-4c3b-4ff5-9e08-899e41cc6d98.png" width="700px" align="center"> </img>
 <br/>
 <br/>
 Apartir daqui recmendo não usar o mouse para as seleções, use as setas do seu teclado.
 Primeiro para Selecionar o "Install".
+<br/>
 <img src="https://user-images.githubusercontent.com/93548287/173679740-4bbf088b-e3cb-4b7f-a45f-275a3bb51c86.png" width="700px" align="center"> </img>
 <br/>
 <br/>
 Em seguida use seu teclado para esoclher a linguagem, região e o mapa do teclado. (Por exemplo eu escolhi, português, Brasil e o teclado brasileiro também.
 A configuração de rede vai falar, não tem problema aperte enter com a opção "continuar selecionada.
 Em seguida se for o caso selecione:
+<br/>
 <img src="https://user-images.githubusercontent.com/93548287/173685529-71bc8d9e-34c5-4d02-a2e4-b45a0f939490.png" width="700px" align="center"> </img>
 <br/>
 <br/>
 Seu hostmane deve ser seu login no intra + 42. Em seguida selecione "continuar". Está em dúvida sobre o que é hostname é só ler o que o Debian está falando com você.
+<br/>
 <img src="https://user-images.githubusercontent.com/93548287/173685728-7cd3de2c-330b-4537-827a-d20825b050a1.png" width="700px" align="center"> </img>
 <br/>
 <br/>
